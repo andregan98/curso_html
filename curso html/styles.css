@@ -1,0 +1,28 @@
+h1{
+	color: skyblue;
+}
+li{
+	color: red;
+}
+h2{
+	color: green;
+}
+#titulo-principal {
+ color:blueviolet;
+}
+.titulos-rojos{
+	color: darkred;
+}
+
+h1{
+	font-size: 25px;
+}
+#encabezado{
+	background-color: mediumvioletred;
+}
+#contenido {
+	background-color: skyblue;
+}
+#contenido h1 {
+	background-color: royalblue;
+}
